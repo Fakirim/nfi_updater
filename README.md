@@ -1,1 +1,1 @@
-# nfi_updater
+# NFIX updater
